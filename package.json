@@ -1,0 +1,15 @@
+{
+  "name": "whofuckingcares",
+  "version": "1.0.0",
+  "description": "Nobody Gives a Shit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Droct/WhoCares.git"
+  },
+  "author": "Avinash Ashwik",
+  "license": "ISC"
+}
